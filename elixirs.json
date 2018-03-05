@@ -1,39 +1,55 @@
 {
-  "updated": 1520268458088,
+  "updated": 1520269215624,
   "data": [
     {
       "item": "Chilly Elixir",
       "requirements": ["Winterwing Butterfly *", "Cold Darner **"],
       "effect": "Heat resistance",
-      "minEffect":
-        "11:10 (high-effect; 4 critters + 1 monster part)7:10 (high-duration; 1 critter + 4 monster parts)",
-      "midEffect":
-        "11:50 (high-effect; 4 critters + 1 monster part)9:50 (high-duration; 1 critter + 4 monster parts)",
-      "maxEffect":
-        "13:10 (high-effect; 4 critters + 1 monster part)15:10 (high duration; 1 critter + 4 monster parts)",
+      "minEffect": [
+        "11:10 (high-effect; 4 critters + 1 monster part)",
+        "7:10 (high-duration; 1 critter + 4 monster parts)"
+      ],
+      "midEffect": [
+        "11:50 (high-effect; 4 critters + 1 monster part)",
+        "9:50 (high-duration; 1 critter + 4 monster parts)"
+      ],
+      "maxEffect": [
+        "13:10 (high-effect; 4 critters + 1 monster part)",
+        "15:10 (high duration; 1 critter + 4 monster parts)"
+      ],
       "notes": "N/A"
     },
     {
       "item": "Electro Elixir",
       "requirements": ["Thunderwing Butterfly *", "Electric Darner **"],
       "effect": "Electricity resistance",
-      "minEffect":
-        "11:10 (high-effect; 4 critters + 1 monster part)7:10 (high-duration; 1 critter + 4 monster parts)",
-      "midEffect":
-        "11:50 (high-effect; 4 critters + 1 monster part)9:50 (high-duration; 1 critter + 4 monster parts)",
-      "maxEffect":
-        "13:10 (high-effect; 4 critters + 1 monster part)15:10 (high duration; 1 critter + 4 monster parts)",
+      "minEffect": [
+        "11:10 (high-effect; 4 critters + 1 monster part)",
+        "7:10 (high-duration; 1 critter + 4 monster parts)"
+      ],
+      "midEffect": [
+        "11:50 (high-effect; 4 critters + 1 monster part)",
+        "9:50 (high-duration; 1 critter + 4 monster parts)"
+      ],
+      "maxEffect": [
+        "13:10 (high-effect; 4 critters + 1 monster part)",
+        "15:10 (high duration; 1 critter + 4 monster parts)"
+      ],
       "notes": "N/A"
     },
     {
       "item": "Energizing Elixir",
       "requirements": ["Restless Cricket *", "Energetic Rhino Beetle **"],
       "effect": "Stamina restoration",
-      "minEffect":
-        "+1/5th Wheel (Restless Cricket)+1 & 3/5th Wheel (Energetic Rhino Beetle)",
-      "midEffect": "N/A (see notes)",
-      "maxEffect":
-        "+1 Wheel (Restless Cricket)+3 Wheels (Energetic Rhino Beetle)",
+      "minEffect": [
+        "+1/5th Wheel (Restless Cricket)",
+        "+1 &amp; 3/5th Wheel (Energetic Rhino Beetle)"
+      ],
+      "midEffect": ["N/A (see notes)"],
+      "maxEffect": [
+        "+1 Wheel (Restless Cricket)",
+        "+3 Wheels (Energetic Rhino Beetle)"
+      ],
       "notes":
         "Adding higher-tier monster parts will not affect stamina restoration"
     },
@@ -41,9 +57,9 @@
       "item": "Enduring Elixir",
       "requirements": ["Tireless Frog **"],
       "effect": "One-use extra stamina wheels",
-      "minEffect": "+1/5th Max Wheel",
-      "midEffect": "N/A (see notes)",
-      "maxEffect": "+4/5th Max Wheel",
+      "minEffect": ["+1/5th Max Wheel"],
+      "midEffect": ["N/A (see notes)"],
+      "maxEffect": ["+4/5th Max Wheel"],
       "notes":
         "Adding higher-tier monster parts will not affect extra max-stamina wheels"
     },
@@ -51,33 +67,45 @@
       "item": "Fireproof Elixir",
       "requirements": ["Fireproof Lizard *", "Smotherwing Butterfly **"],
       "effect": "Fire resistance",
-      "minEffect":
-        "11:10 (high-effect; 4 critters + 1 monster part)7:10 (high-duration; 1 critter + 4 monster parts)",
-      "midEffect":
-        "11:50 (high-effect; 4 critters + 1 monster part)9:50 (high-duration; 1 critter + 4 monster parts)",
-      "maxEffect":
-        "13:10 (high-effect; 4 critters + 1 monster part)15:10 (high duration; 1 critter + 4 monster parts)",
+      "minEffect": [
+        "11:10 (high-effect; 4 critters + 1 monster part)",
+        "7:10 (high-duration; 1 critter + 4 monster parts)"
+      ],
+      "midEffect": [
+        "11:50 (high-effect; 4 critters + 1 monster part)",
+        "9:50 (high-duration; 1 critter + 4 monster parts)"
+      ],
+      "maxEffect": [
+        "13:10 (high-effect; 4 critters + 1 monster part)",
+        "15:10 (high duration; 1 critter + 4 monster parts)"
+      ],
       "notes": "N/A"
     },
     {
       "item": "Hasty Elixir",
       "requirements": ["Hightail Lizard *", "Hot-Footed Frog **"],
       "effect": "Increased movement speed",
-      "minEffect":
-        "5:10 (high-effect; 4 critters + 1 monster part)5:40 (high-duration; 1 critter + 4 monster parts)",
-      "midEffect":
-        "5:50 (high-effect; 4 critters + 1 monster part)8:20 (high-duration; 1 critter + 4 monster parts)",
-      "maxEffect":
-        "7:10 (high-effect; 4 critters + 1 monster part)13:40 (high-duration; 1 critter + 4 monster parts)",
+      "minEffect": [
+        "5:10 (high-effect; 4 critters + 1 monster part)",
+        "5:40 (high-duration; 1 critter + 4 monster parts)"
+      ],
+      "midEffect": [
+        "5:50 (high-effect; 4 critters + 1 monster part)",
+        "8:20 (high-duration; 1 critter + 4 monster parts)"
+      ],
+      "maxEffect": [
+        "7:10 (high-effect; 4 critters + 1 monster part)",
+        "13:40 (high-duration; 1 critter + 4 monster parts)"
+      ],
       "notes": "N/A"
     },
     {
       "item": "Hearty Elixir",
       "requirements": ["Hearty Lizard ****"],
       "effect": "Full restore + temp max-hearts",
-      "minEffect": "+4 temp max-hearts",
-      "midEffect": "N/A (see notes)",
-      "maxEffect": "+16 temp max-hearts",
+      "minEffect": ["+4 temp max-hearts"],
+      "midEffect": ["N/A (see notes)"],
+      "maxEffect": ["+16 temp max-hearts"],
       "notes":
         "Adding higher-tier monster parts will not affect temp max-hearts"
     },
@@ -85,48 +113,72 @@
       "item": "Mighty Elixir",
       "requirements": ["Bladed Rhino Beetle *"],
       "effect": "Attack-power boost",
-      "minEffect":
-        "4:30 (high-effect; 4 critters + 1 monster part)5:30 (high-duration; 1 critter + 4 monster parts)",
-      "midEffect":
-        "5:10 (high-effect; 4 critters + 1 monster part)8:10 (high-duration; 1 critter + 4 monster parts)",
-      "maxEffect":
-        "6:30 (high-effect; 4 critters + 1 monster part)13:30 (high-duration; 1 critter + 4 monster parts)",
+      "minEffect": [
+        "4:30 (high-effect; 4 critters + 1 monster part)",
+        "5:30 (high-duration; 1 critter + 4 monster parts)"
+      ],
+      "midEffect": [
+        "5:10 (high-effect; 4 critters + 1 monster part)",
+        "8:10 (high-duration; 1 critter + 4 monster parts)"
+      ],
+      "maxEffect": [
+        "6:30 (high-effect; 4 critters + 1 monster part)",
+        "13:30 (high-duration; 1 critter + 4 monster parts)"
+      ],
       "notes": "N/A"
     },
     {
       "item": "Sneaky Elixir",
       "requirements": ["Sunset Firefly *"],
       "effect": "Stealth boost",
-      "minEffect":
-        "9:10 (high-effect; 4 critters + 1 monster part)6:40 (high-duration; 1 critter + 4 monster parts)",
-      "midEffect":
-        "9:50 (high-effect; 4 critters + 1 monster part)9:20 (high-duration; 1 critter + 4 monster parts)",
-      "maxEffect":
-        "11:10 (high-effect; 4 critters + 1 monster part)14:40 (high-duration; 1 critter + 4 monster parts)",
+      "minEffect": [
+        "9:10 (high-effect; 4 critters + 1 monster part)",
+        "6:40 (high-duration; 1 critter + 4 monster parts)"
+      ],
+      "midEffect": [
+        "9:50 (high-effect; 4 critters + 1 monster part)",
+        "9:20 (high-duration; 1 critter + 4 monster parts)"
+      ],
+      "maxEffect": [
+        "11:10 (high-effect; 4 critters + 1 monster part)",
+        "14:40 (high-duration; 1 critter + 4 monster parts)"
+      ],
       "notes": "N/A"
     },
     {
       "item": "Spicy Elixir",
       "requirements": ["Summerwing Butterfly *", "Warm Darner **"],
       "effect": "Cold resistance",
-      "minEffect":
-        "11:10 (high-effect; 4 critters + 1 monster part)7:10 (high-duration; 1 critter + 4 monster parts)",
-      "midEffect":
-        "11:50 (high-effect; 4 critters + 1 monster part)9:50 (high-duration; 1 critter + 4 monster parts)",
-      "maxEffect":
-        "13:10 (high-effect; 4 critters + 1 monster part)15:10 (high duration; 1 critter + 4 monster parts)",
+      "minEffect": [
+        "11:10 (high-effect; 4 critters + 1 monster part)",
+        "7:10 (high-duration; 1 critter + 4 monster parts)"
+      ],
+      "midEffect": [
+        "11:50 (high-effect; 4 critters + 1 monster part)",
+        "9:50 (high-duration; 1 critter + 4 monster parts)"
+      ],
+      "maxEffect": [
+        "13:10 (high-effect; 4 critters + 1 monster part)",
+        "15:10 (high duration; 1 critter + 4 monster parts)"
+      ],
       "notes": "N/A"
     },
     {
       "item": "Tough Elixir",
       "requirements": ["Rugged Rhino Beetle *"],
       "effect": "Defense boost",
-      "minEffect":
-        "4:30 (high-effect; 4 critters + 1 monster part)5:30 (high-duration; 1 critter + 4 monster parts)",
-      "midEffect":
-        "5:10 (high-effect; 4 critters + 1 monster part)8:10 (high-duration; 1 critter + 4 monster parts)",
-      "maxEffect":
-        "6:30 (high-effect; 4 critters + 1 monster part)13:30 (high-duration; 1 critter + 4 monster parts)",
+      "minEffect": [
+        "4:30 (high-effect; 4 critters + 1 monster part)",
+        "5:30 (high-duration; 1 critter + 4 monster parts)"
+      ],
+      "midEffect": [
+        "5:10 (high-effect; 4 critters + 1 monster part)",
+        "8:10 (high-duration; 1 critter + 4 monster parts)"
+      ],
+      "maxEffect": [
+        "6:30 (high-effect; 4 critters + 1 monster part)",
+        "13:30 (high-duration; 1 critter + 4 monster parts)"
+      ],
       "notes": "N/A"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated": 1520268458088,
+  "updated": 1520269215624,
   "data": [
     {
       "prefix": "Chilly",
@@ -10,8 +10,11 @@
         "Hydromelon *"
       ],
       "specialEffect": "Heat resistance",
-      "minEffect": "4:30 (all except Chillfin Trout)2:30 (Chillfin Trout)",
-      "maxEffect": "Frozen proteins also offer temporary heat resistance",
+      "minEffect": [
+        "4:30 (all except Chillfin Trout)",
+        "2:30 (Chillfin Trout)"
+      ],
+      "maxEffect": " Frozen proteins also offer temporary heat resistance",
       "notes": ""
     },
     {
@@ -23,7 +26,7 @@
         "Zapshroom **"
       ],
       "specialEffect": "Electricity resistance",
-      "minEffect": "4:30 (all except Voltfin Trout)2:30 (Voltfin Trout)",
+      "minEffect": ["4:30 (all except Voltfin Trout)", "2:30 (Voltfin Trout)"],
       "maxEffect": "N/A",
       "notes": ""
     },
@@ -36,8 +39,12 @@
         "Staminoka Bass ***"
       ],
       "specialEffect": "Stamina refill",
-      "minEffect":
-        "+1/5th Wheel (Stamella)+2/5th Wheel (Courser Bee Honey)+1 Wheel (Staminoka Bass)+2/5th Wheel (Bright-Eyed Crab)",
+      "minEffect": [
+        "+1/5th Wheel (Stamella)",
+        "+2/5th Wheel (Courser Bee Honey)",
+        "+1 Wheel (Staminoka Bass)",
+        "+2/5th Wheel (Bright-Eyed Crab)"
+      ],
       "maxEffect": "N/A",
       "notes": ""
     },
@@ -45,8 +52,10 @@
       "prefix": "Enduring",
       "requirements": ["Endura Carrot ***", "Endura Shroom *"],
       "specialEffect": "Stamina refill and adds one-use extra stamina wheels",
-      "minEffect":
-        "+1/5th Max Wheel (Endura Shroom)+2/5th Max Stamina Wheel (Endura Carrot)",
+      "minEffect": [
+        "+1/5th Max Wheel (Endura Shroom)",
+        "+2/5th Max Stamina Wheel (Endura Carrot)"
+      ],
       "maxEffect": "N/A",
       "notes": ""
     },
@@ -54,9 +63,8 @@
       "prefix": "Fireproof",
       "requirements": ["Fireproof Lizard *", "Smotherwing Butterfly **"],
       "specialEffect": "Fire resistance",
-      "minEffect": "2:30",
-      "maxEffect":
-        "No recipes give Fireproof, only elixirs; see elixirs table below",
+      "minEffect": ["2:30"],
+      "maxEffect": "No recipes give Fireproof, only elixirs; see ",
       "notes": ""
     },
     {
@@ -68,7 +76,7 @@
         "Swift Violet **"
       ],
       "specialEffect": "Increased movement speed",
-      "minEffect": "3:00 (all except Swift Violet)1:00 (Swift Violet)",
+      "minEffect": ["3:00 (all except Swift Violet)", "1:00 (Swift Violet)"],
       "maxEffect": "N/A",
       "notes": ""
     },
@@ -85,8 +93,13 @@
         "Hearty Truffle *"
       ],
       "specialEffect": "Full restore + temp max-hearts",
-      "minEffect":
-        "+1 temp max-heart (Hearty Truffle)+2 temp max-hearts (Hearty Bass)+3 temp max-hearts (Hearty Radish & Hearty Blueshell Snail)+4 temp max-hearts (Hearty Salmon & Hearty Durian)+5 temp max-hearts (Big Hearty Radish)",
+      "minEffect": [
+        "+1 temp max-heart (Hearty Truffle)",
+        "+2 temp max-hearts (Hearty Bass)",
+        "+3 temp max-hearts (Hearty Radish &amp; Hearty Blueshell Snail)",
+        "+4 temp max-hearts (Hearty Salmon &amp; Hearty Durian)",
+        "+5 temp max-hearts (Big Hearty Radish)"
+      ],
       "maxEffect":
         "Overrides heart-value priority if more than one of the same Hearty items are used in a recipe, especially for recipes that are multiple-components or any of a sub-type such as mushrooms",
       "notes": ""
@@ -102,7 +115,7 @@
         "Razorshroom **"
       ],
       "specialEffect": "Attack-power boost",
-      "minEffect": "0:50",
+      "minEffect": ["0:50"],
       "maxEffect": "N/A",
       "notes": ""
     },
@@ -115,7 +128,10 @@
         "Warm Safflina *"
       ],
       "specialEffect": "Cold resistance",
-      "minEffect": "4:30 (all except Sizzelfin Trout)2:30 (Sizzlefin Trout)",
+      "minEffect": [
+        "4:30 (all except Sizzelfin Trout)",
+        "2:30 (Sizzlefin Trout)"
+      ],
       "maxEffect": "Does not grant damage-immunity to freezing water",
       "notes": ""
     },
@@ -129,7 +145,7 @@
         "Sneaky River Snail *"
       ],
       "specialEffect": "Stealth boost",
-      "minEffect": "2:00",
+      "minEffect": ["2:00"],
       "maxEffect": "N/A",
       "notes": ""
     },
@@ -144,7 +160,7 @@
         "Ironshroom **"
       ],
       "specialEffect": "Defense boost",
-      "minEffect": "0:50",
+      "minEffect": ["0:50"],
       "maxEffect": "N/A",
       "notes": ""
     }
