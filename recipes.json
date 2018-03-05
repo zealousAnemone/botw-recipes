@@ -1,5 +1,5 @@
 {
-  "updated": 1520008676824,
+  "updated": 1520274420812,
   "data": [
     {
       "item": "Copious Meat Skewer",
@@ -877,7 +877,7 @@
     {
       "item": "Fried Wild Greens",
       "requirements": ["Any vegetable"],
-      "minHeartsRestored": 0,
+      "minHeartsRestored": "0",
       "maxHeartsRestored": 20,
       "minSellingPrice": 10,
       "maxSellingPrice": 420,
@@ -900,7 +900,7 @@
     {
       "item": "Herb Sauté",
       "requirements": ["Any vegetable", "Goron Spice"],
-      "minHeartsRestored": 0,
+      "minHeartsRestored": "0",
       "maxHeartsRestored": 19,
       "minSellingPrice": 10,
       "maxSellingPrice": 350,
@@ -933,7 +933,7 @@
     {
       "item": "Salt-Grilled Greens",
       "requirements": ["Any vegetable", "Rock Salt"],
-      "minHeartsRestored": 0,
+      "minHeartsRestored": "0",
       "maxHeartsRestored": 19,
       "minSellingPrice": 10,
       "maxSellingPrice": 350,

@@ -1,0 +1,605 @@
+{
+  "updated": 1520274420813,
+  "data": [
+    {
+      "item": "Armored Carp",
+      "openFlame": {
+        "name": "Roasted Carp",
+        "sellingPrice": 15,
+        "heartsRestored": 1.5
+      },
+      "frozen": {
+        "name": "Frozen Carp",
+        "sellingPrice": 18,
+        "heartsRestored": 1,
+        "specialEffect": "temporary boost to heat resistance",
+        "effectTime": "1:00"
+      }
+    },
+    {
+      "item": "Armored Porgy",
+      "openFlame": {
+        "name": "Roasted Porgy",
+        "sellingPrice": 15,
+        "heartsRestored": 1.5
+      },
+      "frozen": {
+        "name": "Frozen Porgy",
+        "sellingPrice": 18,
+        "heartsRestored": 1,
+        "specialEffect": "temporary boost to heat resistance",
+        "effectTime": "1:00"
+      }
+    },
+    {
+      "item": "Bright-Eyed Crab",
+      "openFlame": {
+        "name": "Blackened Crab",
+        "sellingPrice": 12,
+        "heartsRestored": 1.5
+      },
+      "frozen": {
+        "name": "Frozen Crab",
+        "sellingPrice": 14,
+        "heartsRestored": 2,
+        "specialEffect": "temporary boost to heat resistance",
+        "effectTime": "1:00"
+      }
+    },
+    {
+      "item": "Chillfin Trout",
+      "openFlame": {
+        "name": "Roasted Trout",
+        "sellingPrice": 9,
+        "heartsRestored": 1.5
+      },
+      "frozen": {
+        "name": "Frozen Trout",
+        "sellingPrice": 10,
+        "heartsRestored": 1,
+        "specialEffect": "temporary boost to heat resistance",
+        "effectTime": "1:00"
+      }
+    },
+    {
+      "item": "Hearty Bass",
+      "openFlame": {
+        "name": "Roasted Hearty Bass",
+        "sellingPrice": 12,
+        "heartsRestored": 3
+      },
+      "frozen": {
+        "name": "Frozen Hearty Bass",
+        "sellingPrice": 14,
+        "heartsRestored": 2,
+        "specialEffect": "temporary boost to heat resistance",
+        "effectTime": "1:00"
+      }
+    },
+    {
+      "item": "Hearty Blueshell Snail",
+      "openFlame": {
+        "name": "Blueshell Escargot",
+        "sellingPrice": 15,
+        "heartsRestored": 4.5
+      },
+      "frozen": {
+        "name": "Icy Hearty Blueshell Snail",
+        "sellingPrice": 18,
+        "heartsRestored": 3,
+        "specialEffect": "temporary boost to heat resistance",
+        "effectTime": "1:00"
+      }
+    },
+    {
+      "item": "Hearty Salmon",
+      "openFlame": {
+        "name": "Roasted Hearty Salmon",
+        "sellingPrice": 15,
+        "heartsRestored": 4.5
+      },
+      "frozen": {
+        "name": "Frozen Hearty Salmon",
+        "sellingPrice": 18,
+        "heartsRestored": 4,
+        "specialEffect": "temporary boost to heat resistance",
+        "effectTime": "1:00"
+      }
+    },
+    {
+      "item": "Hyrule Bass",
+      "openFlame": {
+        "name": "Roasted Bass",
+        "sellingPrice": 9,
+        "heartsRestored": 1.5
+      },
+      "frozen": {
+        "name": "Frozen Bass",
+        "sellingPrice": 14,
+        "heartsRestored": 2,
+        "specialEffect": "temporary boost to heat resistance",
+        "effectTime": "1:00"
+      }
+    },
+    {
+      "item": "Ironshell Crab",
+      "openFlame": {
+        "name": "Blackened Crab",
+        "sellingPrice": 12,
+        "heartsRestored": 1.5
+      },
+      "frozen": {
+        "name": "Frozen Crab",
+        "sellingPrice": 14,
+        "heartsRestored": 2,
+        "specialEffect": "temporary boost to heat resistance",
+        "effectTime": "1:00"
+      }
+    },
+    {
+      "item": "Mighty Carp",
+      "openFlame": {
+        "name": "Roasted Carp",
+        "sellingPrice": 15,
+        "heartsRestored": 1.5
+      },
+      "frozen": {
+        "name": "Frozen Carp",
+        "sellingPrice": 18,
+        "heartsRestored": 1,
+        "specialEffect": "temporary boost to heat resistance",
+        "effectTime": "1:00"
+      }
+    },
+    {
+      "item": "Mighty Porgy",
+      "openFlame": {
+        "name": "Roasted Porgy",
+        "sellingPrice": 15,
+        "heartsRestored": 1.5
+      },
+      "frozen": {
+        "name": "Frozen Porgy",
+        "sellingPrice": 18,
+        "heartsRestored": 1,
+        "specialEffect": "temporary boost to heat resistance",
+        "effectTime": "1:00"
+      }
+    },
+    {
+      "item": "Raw Bird Drumstick",
+      "openFlame": {
+        "name": "Roasted Bird Drumstick",
+        "sellingPrice": 12,
+        "heartsRestored": 1.5
+      },
+      "frozen": {
+        "name": "Frozen Bird Drumstick",
+        "sellingPrice": 15,
+        "heartsRestored": 1,
+        "specialEffect": "temporary boost to heat resistance",
+        "effectTime": "1:00"
+      }
+    },
+    {
+      "item": "Raw Bird Thigh",
+      "openFlame": {
+        "name": "Roasted Bird Thigh",
+        "sellingPrice": 24,
+        "heartsRestored": 2.25
+      },
+      "frozen": {
+        "name": "Frozen Bird Thigh",
+        "sellingPrice": 28,
+        "heartsRestored": 1.5,
+        "specialEffect": "temporary boost to heat resistance",
+        "effectTime": "1:00"
+      }
+    },
+    {
+      "item": "Raw Gourmet Meat",
+      "openFlame": {
+        "name": "Seared Gourmet Steak",
+        "sellingPrice": 35,
+        "heartsRestored": 4.5
+      },
+      "frozen": {
+        "name": "Icy Gourmet Meat",
+        "sellingPrice": 40,
+        "heartsRestored": 3,
+        "specialEffect": "temporary boost to heat resistance",
+        "effectTime": "1:00"
+      }
+    },
+    {
+      "item": "Raw Meat",
+      "openFlame": {
+        "name": "Seared Steak",
+        "sellingPrice": 12,
+        "heartsRestored": 1.5
+      },
+      "frozen": {
+        "name": "Icy Meat",
+        "sellingPrice": 15,
+        "heartsRestored": 1,
+        "specialEffect": "temporary boost to heat resistance",
+        "effectTime": "1:00"
+      }
+    },
+    {
+      "item": "Raw Prime Meat",
+      "openFlame": {
+        "name": "Seared Prime Steak",
+        "sellingPrice": 24,
+        "heartsRestored": 2.25
+      },
+      "frozen": {
+        "name": "Icy Prime Meat",
+        "sellingPrice": 28,
+        "heartsRestored": 1.5,
+        "specialEffect": "temporary boost to heat resistance",
+        "effectTime": "1:00"
+      }
+    },
+    {
+      "item": "Raw Whole Bird",
+      "openFlame": {
+        "name": "Roasted Whole Bird",
+        "sellingPrice": 35,
+        "heartsRestored": 4.5
+      },
+      "frozen": {
+        "name": "Frozen Whole Bird",
+        "sellingPrice": 40,
+        "heartsRestored": 3,
+        "specialEffect": "temporary boost to heat resistance",
+        "effectTime": "1:00"
+      }
+    },
+    {
+      "item": "Razorclaw Crab",
+      "openFlame": {
+        "name": "Blackened Crab",
+        "sellingPrice": 12,
+        "heartsRestored": 1.5
+      },
+      "frozen": {
+        "name": "Frozen Crab",
+        "sellingPrice": 14,
+        "heartsRestored": 2,
+        "specialEffect": "temporary boost to heat resistance",
+        "effectTime": "1:00"
+      }
+    },
+    {
+      "item": "Sanke Carp",
+      "openFlame": {
+        "name": "Roasted Carp",
+        "sellingPrice": 15,
+        "heartsRestored": 1.5
+      },
+      "frozen": {
+        "name": "Frozen Carp",
+        "sellingPrice": 18,
+        "heartsRestored": 1,
+        "specialEffect": "temporary boost to heat resistance",
+        "effectTime": "1:00"
+      }
+    },
+    {
+      "item": "Sizzlefin Trout",
+      "openFlame": {
+        "name": "Roasted Trout",
+        "sellingPrice": 9,
+        "heartsRestored": 1.5
+      },
+      "frozen": {
+        "name": "Frozen Trout",
+        "sellingPrice": 10,
+        "heartsRestored": 1,
+        "specialEffect": "temporary boost to heat resistance",
+        "effectTime": "1:00"
+      }
+    },
+    {
+      "item": "Sneaky River Snail",
+      "openFlame": {
+        "name": "Sneaky River Escargot",
+        "sellingPrice": 9,
+        "heartsRestored": 1.5
+      },
+      "frozen": {
+        "name": "Frozen River Snail",
+        "sellingPrice": 10,
+        "heartsRestored": 1,
+        "specialEffect": "temporary boost to heat resistance",
+        "effectTime": "1:00"
+      }
+    },
+    {
+      "item": "Staminoka Bass",
+      "openFlame": {
+        "name": "Roasted Bass",
+        "sellingPrice": 9,
+        "heartsRestored": 1.5
+      },
+      "frozen": {
+        "name": "Frozen Bass",
+        "sellingPrice": 14,
+        "heartsRestored": 2,
+        "specialEffect": "temporary boost to heat resistance",
+        "effectTime": "1:00"
+      }
+    },
+    {
+      "item": "Stealthfin Trout",
+      "openFlame": {
+        "name": "Roasted Trout",
+        "sellingPrice": 9,
+        "heartsRestored": 1.5
+      },
+      "frozen": {
+        "name": "Frozen Trout",
+        "sellingPrice": 10,
+        "heartsRestored": 1,
+        "specialEffect": "temporary boost to heat resistance",
+        "effectTime": "1:00"
+      }
+    },
+    {
+      "item": "Voltfin Trout",
+      "openFlame": {
+        "name": "Roasted Trout",
+        "sellingPrice": 9,
+        "heartsRestored": 1.5
+      },
+      "frozen": {
+        "name": "Frozen Trout",
+        "sellingPrice": 10,
+        "heartsRestored": 1,
+        "specialEffect": "temporary boost to heat resistance",
+        "effectTime": "1:00"
+      }
+    },
+    {
+      "item": "Acorn",
+      "openFlame": {
+        "name": "Roasted Acorn",
+        "sellingPrice": 2,
+        "heartsRestored": 0.5
+      }
+    },
+    {
+      "item": "Apple",
+      "openFlame": {
+        "name": "Baked Apple",
+        "sellingPrice": 3,
+        "heartsRestored": 0.75
+      }
+    },
+    {
+      "item": "Armoranth",
+      "openFlame": {
+        "name": "Roasted Armoranth",
+        "sellingPrice": 8,
+        "heartsRestored": 0.5
+      }
+    },
+    {
+      "item": "Big Hearty Radish",
+      "openFlame": {
+        "name": "Roasted Big Radish",
+        "sellingPrice": 24,
+        "heartsRestored": 6
+      }
+    },
+    {
+      "item": "Big Hearty Truffle",
+      "openFlame": {
+        "name": "Roasted Big Hearty Truffle",
+        "sellingPrice": 24,
+        "heartsRestored": 4.5
+      }
+    },
+    {
+      "item": "Chickaloo Tree Nut",
+      "openFlame": {
+        "name": "Roasted Tree Nut",
+        "sellingPrice": 2,
+        "heartsRestored": 0.5
+      }
+    },
+    {
+      "item": "Chillshroom",
+      "openFlame": {
+        "name": "Toasty Chillshroom",
+        "sellingPrice": 6,
+        "heartsRestored": 0.75
+      }
+    },
+    {
+      "item": "Endura Carrot?",
+      "openFlame": {
+        "name": "Roasted Endura Carrot",
+        "sellingPrice": 38,
+        "heartsRestored": 3
+      }
+    },
+    {
+      "item": "Endura Shroom",
+      "openFlame": {
+        "name": "Toasty Endura Shroom",
+        "sellingPrice": 5,
+        "heartsRestored": 1.5
+      }
+    },
+    {
+      "item": "Fleet-Lotus Seeds",
+      "openFlame": {
+        "name": "Roasted Lotus Seeds",
+        "sellingPrice": 8,
+        "heartsRestored": 0.75
+      }
+    },
+    {
+      "item": "Fortified Pumpkin",
+      "openFlame": {
+        "name": "Baked Fortified Pumpkin",
+        "sellingPrice": 8,
+        "heartsRestored": 0.75
+      }
+    },
+    {
+      "item": "Hearty Durian",
+      "openFlame": {
+        "name": "Roasted Harty Durian",
+        "sellingPrice": 12,
+        "heartsRestored": 4.5
+      }
+    },
+    {
+      "item": "Hearty Radish",
+      "openFlame": {
+        "name": "Roasted Radish",
+        "sellingPrice": 12,
+        "heartsRestored": 3.75
+      }
+    },
+    {
+      "item": "Hearty Truffle",
+      "openFlame": {
+        "name": "Toasty Hearty Truffle",
+        "sellingPrice": 8,
+        "heartsRestored": 3
+      }
+    },
+    {
+      "item": "Hydromelon",
+      "openFlame": {
+        "name": "Roasted Hydromelon",
+        "sellingPrice": 8,
+        "heartsRestored": 0.75
+      }
+    },
+    {
+      "item": "Hylian Shroom",
+      "openFlame": {
+        "name": "Toasty Hylian Shroom",
+        "sellingPrice": 3,
+        "heartsRestored": 0.75
+      }
+    },
+    {
+      "item": "Ironshroom",
+      "openFlame": {
+        "name": "Toasty Ironshroom",
+        "sellingPrice": 5,
+        "heartsRestored": 0.75
+      }
+    },
+    {
+      "item": "Mighty Bananas",
+      "openFlame": {
+        "name": "Roasted Mighty Bananas",
+        "sellingPrice": 8,
+        "heartsRestored": 0.75
+      }
+    },
+    {
+      "item": "Mighty Thistle",
+      "openFlame": {
+        "name": "Roasted Mighty Thistle",
+        "sellingPrice": 8,
+        "heartsRestored": 0.5
+      }
+    },
+    {
+      "item": "Palm Fruit",
+      "openFlame": {
+        "name": "Baked Palm Fruit",
+        "sellingPrice": 6,
+        "heartsRestored": 1.5
+      }
+    },
+    {
+      "item": "Razorshroom",
+      "openFlame": {
+        "name": "Toasty Razorshroom",
+        "sellingPrice": 5,
+        "heartsRestored": 0.75
+      }
+    },
+    {
+      "item": "Rushroom",
+      "openFlame": {
+        "name": "Toasty Rushroom",
+        "sellingPrice": 5,
+        "heartsRestored": 0.75
+      }
+    },
+    {
+      "item": "Silent Shroom",
+      "openFlame": {
+        "name": "Toasty Silent Shroom",
+        "sellingPrice": 3,
+        "heartsRestored": 0.75
+      }
+    },
+    {
+      "item": "Spicy Pepper",
+      "openFlame": {
+        "name": "Charred Pepper",
+        "sellingPrice": 5,
+        "heartsRestored": 0.75
+      }
+    },
+    {
+      "item": "Stamella Shroom",
+      "openFlame": {
+        "name": "Toasty Stamella Shroom",
+        "sellingPrice": 5,
+        "heartsRestored": 0.75
+      }
+    },
+    {
+      "item": "Sunshroom",
+      "openFlame": {
+        "name": "Toasty Sunshroom",
+        "sellingPrice": 6,
+        "heartsRestored": 0.75
+      }
+    },
+    {
+      "item": "Swift Carrot",
+      "openFlame": {
+        "name": "Roasted Swift Carrot",
+        "sellingPrice": 6,
+        "heartsRestored": 0.75
+      }
+    },
+    {
+      "item": "Voltfruit",
+      "openFlame": {
+        "name": "Roasted Voltfruit",
+        "sellingPrice": 8,
+        "heartsRestored": 0.75
+      }
+    },
+    {
+      "item": "Wildberry",
+      "openFlame": {
+        "name": "Roasted Wildberry",
+        "sellingPrice": 5,
+        "heartsRestored": 0.75
+      }
+    },
+    {
+      "item": "Zapshroom",
+      "openFlame": {
+        "name": "Toasty Zapshroom",
+        "sellingPrice": 6,
+        "heartsRestored": 0.75
+      }
+    }
+  ]
+}
